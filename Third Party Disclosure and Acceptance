@@ -1,0 +1,129 @@
+# THIRD-PARTY SERVICES DISCLOSURE AND ACCEPTANCE
+
+**Effective Date:** October 24, 2026  
+**Application:** Pantry  
+**Developer:** Zack Tapper, doing business as Zaps Apps
+
+## 1. Purpose
+
+This Third-Party Services Disclosure and Acceptance ("Third-Party Disclosure") explains the third-party services used by the Pantry mobile application ("Pantry," the "App," "we," "us," or "our").
+
+Pantry is designed primarily to operate using data stored locally on the user's device. However, certain features require communication with third-party services.
+
+As of the Effective Date, Pantry uses the following third-party services:
+
+**TheMealDB** — used to retrieve meal, recipe, ingredient, image, and related food information.
+
+**Google AdMob** — used to provide and display advertising within the App.
+
+Except for these disclosed third-party services, Pantry's core pantry inventory and related locally stored user information are maintained on the user's device and are not intentionally transmitted to the Developer or to external services unless otherwise specifically disclosed in Pantry's Privacy Policy.
+
+## 2. TheMealDB
+
+Pantry may communicate with TheMealDB to retrieve recipe and meal-related information requested or displayed through the App.
+
+Information supplied by TheMealDB, including recipe names, ingredients, instructions, images, and other meal information, is provided by or through TheMealDB and is not created, controlled, or guaranteed by Zaps Apps.
+
+When a Pantry feature requires information from TheMealDB, certain requests necessary to retrieve that information may be transmitted to TheMealDB over the Internet.
+
+The availability, accuracy, completeness, legality, and continued availability of information supplied by TheMealDB are outside the control of Zaps Apps.
+
+TheMealDB content and services remain subject to any applicable terms, licensing requirements, copyright restrictions, attribution requirements, or other conditions imposed by TheMealDB or the applicable content owner.
+
+Zaps Apps does not claim ownership of content supplied by TheMealDB.
+
+## 3. Google AdMob
+
+Pantry uses Google AdMob to provide advertising within the App.
+
+When AdMob is enabled or an advertisement is requested, Google and participating advertising technology providers may collect, receive, process, or use certain information relating to the user's device or interaction with advertisements.
+
+Depending on the user's device, jurisdiction, privacy settings, advertising configuration, and consent choices, this information may include device information, IP address, advertising identifiers, information about advertisements displayed or interacted with, diagnostic information, and other information used for advertising, fraud prevention, measurement, or related purposes.
+
+Additional information concerning Pantry's use of AdMob and the handling of information associated with advertising is provided in Pantry's Privacy Policy.
+
+Where applicable law requires consent before certain advertising-related data processing occurs, Pantry will provide an applicable consent or privacy-choice mechanism. Acceptance of this Third-Party Disclosure does not replace any separate consent that may be required by applicable privacy law.
+
+Users may also be provided with a method to review or modify applicable advertising privacy choices where required.
+
+## 4. Local Storage
+
+Pantry's core pantry inventory information is stored locally on the user's device.
+
+Zaps Apps does not operate a remote Pantry account database for storing the user's pantry inventory.
+
+Local storage does not mean that Pantry never communicates with the Internet. Internet communication may occur when the App accesses TheMealDB, requests or displays advertisements through Google AdMob, performs functions required by those services, or accesses another function specifically disclosed to the user.
+
+Deleting Pantry or clearing its application data may result in deletion of locally stored Pantry information, subject to the operating system's backup or restoration functionality.
+
+## 5. Third-Party Terms and Privacy Practices
+
+TheMealDB and Google operate independently from Zaps Apps and maintain their own terms, privacy policies, practices, and technical systems.
+
+Zaps Apps does not control and is not responsible for changes made by a third-party provider to its service, terms, privacy practices, availability, security, content, or functionality.
+
+The use of third-party services through Pantry may be subject to applicable terms or policies maintained by those third parties.
+
+Nothing in this Third-Party Disclosure modifies or replaces any agreement between Zaps Apps and a third-party service provider.
+
+## 6. Third-Party Service Changes
+
+Third-party services may modify, restrict, suspend, discontinue, or replace features at any time.
+
+If TheMealDB or Google AdMob materially changes or discontinues a service used by Pantry, certain Pantry functionality may become temporarily or permanently unavailable or may need to be modified or replaced.
+
+Zaps Apps may update, replace, or discontinue a third-party integration when reasonably necessary to maintain Pantry's operation, security, legal compliance, or functionality.
+
+If a change materially affects Pantry's collection, use, disclosure, or processing of personal information, Pantry's Privacy Policy and any legally required consent mechanism will be updated as appropriate.
+
+## 7. No Endorsement
+
+The presence of third-party content, advertisements, services, names, trademarks, or links within Pantry does not constitute an endorsement by Zaps Apps of the applicable third party, advertiser, product, service, recipe, or content unless expressly stated otherwise.
+
+Likewise, use of TheMealDB or Google AdMob does not imply that those companies sponsor or endorse Pantry or Zaps Apps.
+
+All third-party trademarks and service marks remain the property of their respective owners.
+
+## 8. User Acknowledgment
+
+By selecting the applicable acceptance checkbox or otherwise affirmatively accepting this Third-Party Disclosure, the user acknowledges that:
+
+The user has been informed that Pantry uses TheMealDB for meal and recipe-related information and Google AdMob for advertising.
+
+The user understands that use of these features may require Internet communication with those third-party services.
+
+The user understands that advertising-related information may be processed by Google or participating advertising technology providers as further described in Pantry's Privacy Policy and applicable privacy notices.
+
+The user understands that Pantry's core pantry inventory information is stored locally on the user's device as described above.
+
+The user understands that third-party services are operated independently from Zaps Apps and may be subject to their own terms and privacy practices.
+
+Acceptance of this disclosure does not constitute consent to data processing where applicable law requires a separate, specific consent mechanism.
+
+## 9. Relationship to the EULA and Privacy Policy
+
+This Third-Party Disclosure supplements Pantry's End User License Agreement ("EULA") and Privacy Policy.
+
+In the event of an inconsistency concerning Pantry's collection, use, disclosure, or processing of personal information, the Privacy Policy and any applicable privacy consent presented to the user will govern that issue.
+
+In the event of an inconsistency concerning licensing or use of Pantry itself, the EULA will govern.
+
+## 10. Electronic Acceptance
+
+The user may accept this Third-Party Disclosure electronically.
+
+An affirmative action such as checking an unchecked acceptance box and selecting an associated acceptance or continuation button may constitute the user's electronic acknowledgment of this Third-Party Disclosure.
+
+Pantry may record the version or effective date of the legal documents accepted by the user for purposes of determining whether updated acceptance is required.
+
+---
+
+## USER ACCEPTANCE
+
+**Third-Party Services Acknowledgment**
+
+☐ **I acknowledge that Pantry uses TheMealDB to provide meal and recipe information and Google AdMob to provide advertising. I have read and acknowledge this Third-Party Services Disclosure.**
+
+Acceptance of this acknowledgment does not substitute for any separate privacy consent that may be required for advertising or personal-data processing.
+
+**Effective Document Version:** October 24, 2026
